@@ -16,7 +16,7 @@
 
 .cover .heading {
   font-size: 4.5rem;
-  font-weight: 200;
+  font-weight: 300;
   margin-bottom: 0;
 }
 
@@ -38,6 +38,7 @@
   transition: opacity .3s ease-in-out;
   margin: 0 .5em;
   text-align: center;
+  display: inline-block;
 }
 
 .cover .contact a:hover,
