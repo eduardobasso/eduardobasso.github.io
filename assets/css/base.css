@@ -8,3 +8,7 @@ body {
   font-weight: 400;
 }
 
+body *:focus {
+  outline: rgba(0, 0, 0, .26) auto 4px;
+  outline-offset: 2px;
+}
